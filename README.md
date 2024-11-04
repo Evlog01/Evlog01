@@ -1,5 +1,7 @@
 ## Hi there 👋
 Master's Degree in Information Systems and Technologies
+Certificate of qualification of Prompt Engineer
+The beginning of a serious study of python. A little bit of C++
 <!--
 **Evlog01/Evlog01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
